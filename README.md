@@ -1,1 +1,1 @@
-# csc648-githubbbd-demo
+# csc648-github-demo
